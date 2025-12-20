@@ -2,53 +2,96 @@
 R Shiny dashboard for sentiment analysis and SEBI-style fraud risk screening
 # Sentiment & SEBI Fraud Risk Analysis – Shiny Dashboard
 
-This repository contains an **R Shiny dashboard** developed by **Parmesh Kumar**
-for performing:
+An **interactive R Shiny dashboard** for **Sentiment Analysis** and **SEBI / SEC-style Fraud Risk Screening** using Natural Language Processing (NLP).
 
-- Sentiment Analysis
-- SEBI / SEC-style Fraud Risk Screening using NLP
-
-The project is intended for **research, governance analysis, compliance screening,
-and academic demonstration purposes**.
+Developed by **Parmesh Kumar**, this project demonstrates how textual narratives such as **director speeches** and **company reports** can be analyzed to identify **sentiment patterns, narrative inconsistencies, and potential governance risk signals**.
 
 ---
-## 📸 Preview
-![Preview](Sentiment Analysis and SEBI Fraud Dashboard.png)
 
-## 🔍 Features
+## 🚀 Live Dashboard Preview
 
-### 1. Sentiment Analysis
+👉 **Access the live Shiny app here:**  
+🔗 https://parmeshkumar.shinyapps.io/sentiment-sebi-fraud-dashboard/
+
+---
+
+## 📊 Dashboard Preview
+
+### Sentiment Analysis and SEBI / SEC Fraud Risk Analysis Module
+![Sentiment Analysis Preview](Sentiment Analysis and SEBI Fraud Dashboard.png)
+
+---
+
+## 🔍 Key Features
+
+### 1️⃣ Sentiment Analysis
 - Upload `.txt` files
-- Displays complete input text
+- Displays the **complete input text**
 - Calculates:
   - Average sentiment score
-  - Sentiment percentage
-  - Overall sentiment category
+  - Sentiment percentage (0–100%)
+  - Overall sentiment category:
+    - Extremely Negative
+    - Negative
+    - Neutral
+    - Positive
+    - Extremely Positive
 
-### 2. SEBI / SEC Fraud Risk Analysis
-- Compares:
+---
+
+### 2️⃣ SEBI / SEC-Style Fraud Risk Analysis
+- Analyzes **narrative divergence** between:
   - Director / CEO speech
-  - Company final reports
-- Measures:
+  - Company final or annual report
+- Detects:
   - Sentiment divergence
   - Linguistic deception markers
   - Optimism bias
-- Generates a **Fraud Risk Score (0–100)**
+- Generates a **Fraud Risk Score (0–100)** with categories:
+  - LOW RISK
+  - RISK
+  - MODERATE RISK
+  - HIGH RISK
+  - SUPER RISK
+
+> ⚠️ This is a **risk-screening model**, not a fraud-detection or legal judgment system.
 
 ---
 
 ## 📁 Input File Format
-The  input text file must be in this format:
 
+### ✅ Sentiment Analysis Only
+```text
+The overall experience was satisfactory.
+However, delays caused frustration.
+The staff remained professional and helpful.
+
+### ✅ SEBI Fraud Risk Analysis
+```text
+To perform SEBI Fraud Risk Analysis, the text file must contain :
 [SPEECH]
 Director or CEO speech text.
+
 [REPORT]
 Company annual or final report text.
 
-### Sentiment Analysis Only
-```text
-The service quality was acceptable.
-However, delays caused some frustration.
+## ▶️ How to Run
+1. Visit the link:
+   ```bash
+https://parmeshkumar.shinyapps.io/sentiment-sebi-fraud-dashboard
+---
+2. To run locally:
+install.packages(c("shiny", "tm", "sentimentr", "stringr", "DT"))
+and
+setwd("path/to/Sentiment-SEBI-Fraud-Risk-Shiny-Dashboard")
+shiny::runApp()
+
+## 👤 About Author
+
+This project is created and maintained by **Parmesh Kumar**.
+
+📄 Read more about the author here:  
+👉 [Author.md](Author.md)
 
 
 
