@@ -37,11 +37,11 @@ and academic demonstration purposes**.
 
 ## 📁 Input File Format
 The  input text file must be in this format:
-[SPEECH]
-Director or CEO speech text here.
 
+[SPEECH]
+Director or CEO speech text.
 [REPORT]
-Company annual or final report text here.
+Company annual or final report text.
 
 ### Sentiment Analysis Only
 ```text
