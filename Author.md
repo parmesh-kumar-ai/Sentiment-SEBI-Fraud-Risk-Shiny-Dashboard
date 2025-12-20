@@ -4,8 +4,6 @@
 
 I am a multidisciplinary professional with a strong background in **Data Science, Strategy, and Scientific Computing**, and a deep interest in **visualization, mathematical modeling, and creative programming**.
 
-This project demonstrates how **MATLAB** can be used not only for engineering and analytics, but also for **high-quality 3D animations and visual storytelling**.
-
 ---
 
 ## 🎓 Academic Background
@@ -22,12 +20,20 @@ This project demonstrates how **MATLAB** can be used not only for engineering an
 
 ---
 
-## 🧠 Interests
-- Computer Graphics & Visualization
-- Scientific Simulations
-- Mathematical Modeling
-- Creative Coding
-- AI & Data Science
+## 💻 Expertise
+- Natural Language Processing (NLP)
+- Sentiment analysis
+- Governance and compliance analytics
+- Fraud risk screening
+- Explainable AI (XAI)
+
+---
+
+## 🧠 Research Interests
+- NLP for governance
+- Behavioral finance
+- Fraud detection and risk modeling
+- Regulatory analytics
 
 ---
 
