@@ -61,19 +61,18 @@ Developed by **Parmesh Kumar**, this project demonstrates how textual narratives
 ## 📁 Input File Format
 
 ### ✅ Sentiment Analysis Only
-```text
-The overall experience was satisfactory.
-However, delays caused frustration.
-The staff remained professional and helpful.
+- The overall experience was satisfactory.
+- However, delays caused frustration.
+- The staff remained professional and helpful.
 
 ### ✅ SEBI Fraud Risk Analysis
-```text
-To perform SEBI Fraud Risk Analysis, the text file must contain :
-[SPEECH]
-Director or CEO speech text.
+- To perform SEBI Fraud Risk Analysis:
+  -the text file must contain :
+  -[SPEECH]
+  -Director or CEO speech text.
 
-[REPORT]
-Company annual or final report text.
+  -[REPORT]
+  -Company annual or final report text.
 
 ---
 
