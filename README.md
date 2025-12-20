@@ -77,13 +77,13 @@ Developed by **Parmesh Kumar**, this project demonstrates how textual narratives
 ---
 
 ## ▶️ How to Run
-Visit the link:
+### Visit the link:
 https://parmeshkumar.shinyapps.io/sentiment-sebi-fraud-dashboard
 ---
-## To run locally:
-  -install.packages(c("shiny", "tm", "sentimentr", "stringr", "DT"))
-  -setwd("path/to/Sentiment-SEBI-Fraud-Risk-Shiny-Dashboard"
-  -shiny::runApp()
+### To run locally:
+-install.packages(c("shiny", "tm", "sentimentr", "stringr", "DT"))
+-setwd("path/to/Sentiment-SEBI-Fraud-Risk-Shiny-Dashboard"
+-shiny::runApp()
 
 ## 👤 About Author
 
