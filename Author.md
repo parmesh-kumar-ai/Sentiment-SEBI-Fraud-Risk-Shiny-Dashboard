@@ -20,7 +20,7 @@ I am a multidisciplinary professional with a strong background in **Data Science
 
 ---
 
-## 💻 Expertise
+## 🥋 Expertise
 - Natural Language Processing (NLP)
 - Sentiment analysis
 - Governance and compliance analytics
