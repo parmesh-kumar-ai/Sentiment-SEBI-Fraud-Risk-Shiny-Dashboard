@@ -12,7 +12,8 @@ The project is intended for **research, governance analysis, compliance screenin
 and academic demonstration purposes**.
 
 ---
-
+## 📸 Preview
+![Preview](Merry_Christmas_2025.png)
 ## 🔍 Features
 
 ### 1. Sentiment Analysis
