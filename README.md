@@ -18,9 +18,9 @@ Developed by **Parmesh Kumar**, this project demonstrates how textual narratives
 ## 📊 Dashboard Preview
 
 ### Sentiment Analysis and SEBI / SEC Fraud Risk Analysis Module
-![Sentiment Analysis Preview](sentiment.png)
+![Sentiment Analysis Preview](Sentiment Analysis Preview.png)
 
-![Fraud Risk Preview](fraud.png)
+![Fraud Risk Preview](SEBI Fraud Analysis Preview.png)
 
 
 ---
@@ -76,6 +76,10 @@ Developed by **Parmesh Kumar**, this project demonstrates how textual narratives
 
   -[REPORT]
   -Company annual or final report text.
+
+### ✅ Paste/Type Here
+- Select the option to feed text manually.
+- However, delays caused frustration.
 
 ---
 
