@@ -17,8 +17,8 @@ Developed by **Parmesh Kumar**, this project demonstrates how textual narratives
 
 ## 📊 Dashboard Preview
 
-### Sentiment Analysis and SEBI / SEC Fraud Risk Analysis Module
-![Sentiment Analysis Preview](Sentiment Analysis Preview.png)
+### Sentiment Analysis and SEBI Fraud Risk Analysis Module
+![Sentiment Analysis Preview](Sentiment-Analysis-Preview.png)
 
 ![Fraud Risk Preview](SEBI-Fraud-Analysis-Preview.png)
 
