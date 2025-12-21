@@ -64,9 +64,7 @@ Developed by **Parmesh Kumar**, this project demonstrates how textual narratives
 ## 📁 Input File Format
 
 ### ✅ Sentiment Analysis Only
-- The overall experience was satisfactory.
-- However, delays caused frustration.
-- The staff remained professional and helpful.
+- Upload the text file
 
 ### ✅ SEBI Fraud Risk Analysis
 - To perform SEBI Fraud Risk Analysis:
@@ -79,7 +77,6 @@ Developed by **Parmesh Kumar**, this project demonstrates how textual narratives
 
 ### ✅ Paste/Type Here
 - Select the option to feed text manually.
-- However, delays caused frustration.
 
 ---
 
